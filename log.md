@@ -7,3 +7,12 @@
 **Thoughts:** I really like to practice my vanilla Javascript skills and it's awesome to discover the built in functions.
 
 **Link to work:** [30 days of javascript](https://javascript30.com/)
+
+
+### Day 2: July 15, 2017
+
+**Today's Progress**: Worked on integration tests for my rails blog learned about assert_select to find HTML classes and using sessions in the controller test to test admin functionality. Created a very basic express, mongo, nodeJS API
+
+**Thoughts:** It was new working with rails test instead of Rspec and was great to experiment with it. Did a small API with Express and Mongo amazed by how little actual code was required
+
+**Link to work:** [Blog Repo](https://github.com/Awadje/RailsBlog)
