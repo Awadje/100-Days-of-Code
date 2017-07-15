@@ -15,4 +15,4 @@
 
 **Thoughts:** It was new working with rails test instead of Rspec and was great to experiment with it. Did a small API with Express and Mongo amazed by how little actual code was required
 
-**Link to work:** [Blog Repo](https://github.com/Awadje/RailsBlog)
+**Link to work:** [Blog Repo](https://github.com/Awadje/RailsBlog), [API Repo](https://github.com/Awadje/SimpleAPINodeJS)
