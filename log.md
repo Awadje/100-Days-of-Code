@@ -16,3 +16,11 @@
 **Thoughts:** It was new working with rails test instead of Rspec and was great to experiment with it. Did a small API with Express and Mongo amazed by how little actual code was required
 
 **Link to work:** [Blog Repo](https://github.com/Awadje/RailsBlog), [API Repo](https://github.com/Awadje/SimpleAPINodeJS)
+
+### Day 3: July 16, 2017
+
+**Today's Progress**: Played around with  Javascript basics: Variables, Operators, Conditionals, Functions, Objects, Arrays and ES6. Easygoing on Sunday
+
+**Thoughts:** It was good to refresh these basic fundamentals, it's all about repetition.
+
+**Link to work:** [No URL]
