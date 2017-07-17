@@ -24,3 +24,28 @@
 **Thoughts:** It was good to refresh these basic fundamentals, it's all about repetition.
 
 **Link to work:** [No URL]
+
+### Day 4: July 17, 2017
+
+**Today's Progress**: Learned how to merge objects coming from separate models using relations to come together in the React front-end. Wrote functions using filter to match the id's from the data and identify what data belongs where. Used map in combination with the functions to display the data:
+
+
+```
+function getPhotos(photos, id) {
+  const filtered = photos.filter(item => item.id === id)
+
+  return {
+      uri: filtered[0].attributes.uri
+  }
+}
+
+photos: item.relationships.photos.data.map(photo_relation => {
+            return getPhotos(photos, photo_relation.id)
+        }),
+```
+
+
+
+**Thoughts:** It was new for me to have more than one data object and to merge them correctly. Great learning experience!!
+
+**Link to work:** [No URL]
