@@ -27,7 +27,7 @@
 
 ### Day 4: July 17, 2017
 
-**Today's Progress**: Learned how to merge objects coming from separate models using relations to come together in the React front-end. Wrote functions using filter to match the id's from the data and identify what data belongs where. Used map in combination with the functions to display the data:
+**Today's Progress**: Learned how to merge json coming from separate models using relations to come together in the React front-end. Wrote functions using filter to match the id's from the data and identify what data belongs where. Used map in combination with the functions to display the data:
 
 
 ```
