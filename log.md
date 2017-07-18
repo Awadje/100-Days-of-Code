@@ -49,3 +49,11 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Thoughts:** It was new for me to have more than one data object and to merge them correctly. Great learning experience!!
 
 **Link to work:** [No URL]
+
+### Day 5: July 18, 2017
+
+**Today's Progress**: Started with a NodeJS API using Express and Mongoose/MongoDB. Did the basic setup: Server, Controllers, Routes and DB connection
+
+**Thoughts:**  Used to rails, this is all new just soaking it in.
+
+**Link to work:** [API Repo](https://github.com/Awadje/RestaurantAPI)
