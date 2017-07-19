@@ -57,3 +57,11 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Thoughts:**  Used to rails, this is all new just soaking it in.
 
 **Link to work:** [API Repo](https://github.com/Awadje/RestaurantAPI)
+
+### Day 6: July 19, 2017
+
+**Today's Progress**: Was onsite at a possible employer and got the assignment to create a search function for a provided NodeJS API. I chose a React/Redux app and got it working within the afternoon.
+
+**Thoughts:** Besides some CORS issues at the beginning the process was quite smooth.
+
+**Link to work:** [No URL]
