@@ -65,3 +65,11 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Thoughts:** Besides some CORS issues at the beginning the process was quite smooth.
 
 **Link to work:** [No URL]
+
+### Day 7: July 20, 2017
+
+**Today's Progress**: Was onsite at another possible employer with a big Ruby on Rails app(130 models) and got 3 real bugs assigned to me to fix. Signed an NDA so not allowed to talk about it that much.
+
+**Thoughts:** First time in a real codebase so awesome! Also a little milestone to celebrate 1 week into 100days if code!
+
+**Link to work:** [No URL]
