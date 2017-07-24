@@ -73,3 +73,12 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Thoughts:** First time in a real codebase so awesome! Also a little milestone to celebrate 1 week into 100days if code!
 
 **Link to work:** [No URL]
+
+
+### Day 8: July 24, 2017
+
+**Today's Progress**: Was onsite at another possible employer got an assignment to build an app where Admins can create an activity and users(parents) can see and register to those activities and also have to chose which of their children they want to register. It was a Ruby on Rails app and I got up until the part where parents can register to an activity, not able to choose their children yet, however names of the children were already displayed
+
+**Thoughts:** Very nice assignment which seems simple at first hand but gets complex later on.
+
+**Link to work:** [No URL]
