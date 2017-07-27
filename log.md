@@ -82,3 +82,19 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Thoughts:** Very nice assignment which seems simple at first hand but gets complex later on.
 
 **Link to work:** [No URL]
+
+### Day 9: July 26, 2017
+
+**Today's Progress**: Continued with my NodeJS/Express Restaurant API
+
+**Thoughts:** Picking up the pace again
+
+**Link to work:** [API Repo](https://github.com/Awadje/RestaurantAPI)
+
+### Day 10: July 27, 2017
+
+**Today's Progress**: Since my feature employer is using VueJS I picked up a course and decided it's going to be the front-end of my Restaurant API. Covered two way data binding (which I think is great) and a lot of basics, computed properties and dynamic styling with CSS.
+
+**Thoughts:** It's all new and am just following along with JSFiddle
+
+**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/user/Awadje/fiddles))
