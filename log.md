@@ -97,4 +97,4 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 **Thoughts:** It's all new and am just following along with JSFiddle
 
-**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/user/Awadje/fiddles))
+**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/user/Awadje/fiddles)
