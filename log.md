@@ -103,6 +103,6 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 **Today's Progress**: Continued with VueJS dove more into dynamic styling without CSS
 
-**Thoughts:** Dynamic styling is great, I can imagin making progress bars and stuff with this :)
+**Thoughts:** Dynamic styling is great, I can imagine making progress bars and stuff with this :)
 
 **Link to work:** [JS Fiddle Profile](https://jsfiddle.net/Awadje/un28gqcw/4/)
