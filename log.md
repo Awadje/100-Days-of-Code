@@ -105,4 +105,4 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 **Thoughts:** Dynamic styling is great, I can imagin making progress bars and stuff with this :)
 
-**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/Awadje/un28gqcw/)
+**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/Awadje/un28gqcw/4/)
