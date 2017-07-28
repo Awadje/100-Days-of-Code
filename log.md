@@ -98,3 +98,11 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Thoughts:** It's all new and am just following along with JSFiddle
 
 **Link to work:** [JS Fiddle Profile](https://jsfiddle.net/user/Awadje/fiddles)
+
+### Day 11: July 29, 2017
+
+**Today's Progress**: Continued with VueJS dove more into dynamic styling without CSS
+
+**Thoughts:** Dynamic styling is great, I can imagin making progress bars and stuff with this :)
+
+**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/Awadje/un28gqcw/)
