@@ -109,7 +109,7 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 ### Day 12: July 29, 2017
 
-**Today's Progress**: VueJS - Conditional Rendering with v-if. Show and hide HTML elements with just v-if and a boolean. VueJS - Rendering Lists with v-for. Iterating over an array with just v-for!
+**Today's Progress**: VueJS - Conditional Rendering with v-if. Show and hide HTML elements with just v-if and a boolean. VueJS - Conditional Rendering with v-for. Iterating over arrays with v-for and rendering them.
 
 **Thoughts:** Rendering lists and looping trough arrays has never been so straight forward!
 
