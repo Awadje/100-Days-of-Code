@@ -99,10 +99,18 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 **Link to work:** [JS Fiddle Profile](https://jsfiddle.net/user/Awadje/fiddles)
 
-### Day 11: July 29, 2017
+### Day 11: July 28, 2017
 
 **Today's Progress**: Continued with VueJS dove more into dynamic styling without CSS
 
 **Thoughts:** Dynamic styling is great, I can imagine making progress bars and stuff with this :)
 
-**Link to work:** [JS Fiddle Profile](https://jsfiddle.net/Awadje/un28gqcw/4/)
+**Link to work:** [JS Fiddle dynamic styling](https://jsfiddle.net/Awadje/un28gqcw/4/)
+
+### Day 12: July 29, 2017
+
+**Today's Progress**: VueJS - Conditional Rendering with v-if. Show and hide HTML elements with just v-if and a boolean. VueJS - Rendering Lists with v-for. Iterating over an array with just v-for!
+
+**Thoughts:** Rendering lists and looping trough arrays has never been so straight forward!
+
+**Link to work:** [JS Fiddle Conditional Rendering](https://jsfiddle.net/Awadje/x3tyyqd7/6/), [JS Fiddle v-for](https://jsfiddle.net/Awadje/hyac6fqL/14/)
