@@ -113,4 +113,4 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 **Thoughts:** Rendering lists and looping trough arrays has never been so straight forward!
 
-**Link to work:** [JS Fiddle Conditional Rendering](https://jsfiddle.net/Awadje/x3tyyqd7/6/), [JS Fiddle v-for](https://jsfiddle.net/Awadje/hyac6fqL/14/)
+**Link to work:** [JS Fiddle Conditional Rendering v-if](https://jsfiddle.net/Awadje/x3tyyqd7/6/), [JS Fiddle Conditional Rendering v-for](https://jsfiddle.net/Awadje/hyac6fqL/14/)
