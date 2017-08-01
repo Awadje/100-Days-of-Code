@@ -115,7 +115,15 @@ photos: item.relationships.photos.data.map(photo_relation => {
 
 **Link to work:** [JS Fiddle Conditional Rendering v-if](https://jsfiddle.net/Awadje/x3tyyqd7/6/), [JS Fiddle Conditional Rendering v-for](https://jsfiddle.net/Awadje/hyac6fqL/14/)
 
-### Day 13: August 1, 2017
+### Day 13: July 30, 2017
+
+**Today's Progress**: Set up VueJS locally
+
+**Thoughts:** Took it easy
+
+**Link to work:** [No link]
+
+### Day 14: August 1, 2017
 
 **Today's Progress**: VueJS - Working on a small game as part of my course. It's a simple game showing health bars and some buttons to attack and heal. Health bars are actually decreasing when damage is being dealt
 
