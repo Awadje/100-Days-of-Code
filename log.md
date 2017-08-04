@@ -110,7 +110,7 @@ photos: item.relationships.photos.data.map(photo_relation => {
 ### Day 12: July 29, 2017
 
 **Today's Progress**: VueJS - Conditional Rendering with v-if. Show and hide HTML elements with just v-if and a boolean. VueJS - Conditional Rendering with v-for. Iterating over arrays with v-for and rendering them.
-
+om
 **Thoughts:** Rendering lists and looping trough arrays has never been so straight forward!
 
 **Link to work:** [JS Fiddle Conditional Rendering v-if](https://jsfiddle.net/Awadje/x3tyyqd7/6/), [JS Fiddle Conditional Rendering v-for](https://jsfiddle.net/Awadje/hyac6fqL/14/)
@@ -128,5 +128,13 @@ photos: item.relationships.photos.data.map(photo_relation => {
 **Today's Progress**: VueJS - Working on a small game as part of my course. It's a simple game showing health bars and some buttons to attack and heal. Health bars are actually decreasing when damage is being dealt
 
 **Thoughts:** Just going with the flow
+
+**Link to work:** [Game Repo](https://github.com/Awadje/VueJSMonsterSlayingGame)
+
+### Day 15: August 4, 2017
+
+**Today's Progress**: VueJS - Finished up the game!
+
+**Thoughts:** Awesome!
 
 **Link to work:** [Game Repo](https://github.com/Awadje/VueJSMonsterSlayingGame)
