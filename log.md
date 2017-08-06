@@ -138,3 +138,11 @@ om
 **Thoughts:** Awesome!
 
 **Link to work:** [Game Repo](https://github.com/Awadje/VueJSMonsterSlayingGame)
+
+### Day 16: August 6, 2017
+
+**Today's Progress**: VueJS - Created my first VueJS app using VueJS CLI
+
+**Thoughts:** Getting more practical for real life projects
+
+**Link to work:** [VueJSCLI Repo](https://github.com/Awadje/VueJSCLI)
