@@ -146,3 +146,19 @@ om
 **Thoughts:** Getting more practical for real life projects
 
 **Link to work:** [VueJSCLI Repo](https://github.com/Awadje/VueJSCLI)
+
+### Day 17: August 7, 2017
+
+**Today's Progress**: VueJS - Introduction to components
+
+**Thoughts:** This looks familiar to React!
+
+**Link to work:** [VueJSCLI Repo](https://github.com/Awadje/VueJSCLI)
+
+### Day 18: August 8, 2017
+
+**Today's Progress**: VueJS - Introduction to props
+
+**Thoughts:** This looks familiar to React!
+
+**Link to work:** [Components Repo](https://github.com/Awadje/VueJSComponents)
