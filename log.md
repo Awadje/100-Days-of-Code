@@ -162,3 +162,11 @@ om
 **Thoughts:** This looks familiar to React!
 
 **Link to work:** [Components Repo](https://github.com/Awadje/VueJSComponents)
+
+### Day 19: August 9, 2017
+
+**Today's Progress**: VueJS - Dataflow between parent and child components
+
+**Thoughts:** How is this going to hold up in bigger apps?
+
+**Link to work:** [Components Repo](https://github.com/Awadje/VueJSComponents)
